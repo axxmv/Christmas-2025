@@ -135,7 +135,7 @@ a:hover{
     }
     .item img{
         width: auto;
-        height: auto;
+        height: 30px;
     }
     a{
         font-size: 10px;
